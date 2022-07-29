@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/staking/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/staking/static/js/main.cfbdb581.chunk.js",
+    "main.js.map": "/staking/static/js/main.cfbdb581.chunk.js.map",
+    "runtime-main.js": "/staking/static/js/runtime-main.b8a0757e.js",
+    "runtime-main.js.map": "/staking/static/js/runtime-main.b8a0757e.js.map",
+    "static/js/2.18cb9790.chunk.js": "/staking/static/js/2.18cb9790.chunk.js",
+    "static/js/2.18cb9790.chunk.js.map": "/staking/static/js/2.18cb9790.chunk.js.map",
+    "static/js/3.b175385c.chunk.js": "/staking/static/js/3.b175385c.chunk.js",
+    "static/js/3.b175385c.chunk.js.map": "/staking/static/js/3.b175385c.chunk.js.map",
+    "index.html": "/staking/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/staking/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.18cb9790.chunk.js.LICENSE.txt": "/staking/static/js/2.18cb9790.chunk.js.LICENSE.txt",
+    "static/media/hero.ba539293.png": "/staking/static/media/hero.ba539293.png",
+    "static/media/heroimage.3a4683fd.svg": "/staking/static/media/heroimage.3a4683fd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8a0757e.js",
+    "static/js/2.18cb9790.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.cfbdb581.chunk.js"
+  ]
+}
